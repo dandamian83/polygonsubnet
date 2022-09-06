@@ -1,5 +1,5 @@
 # Build a Docker container running a Polygon Edge based Subnet
-Built based on the official Polygon [documentation]  (https://docs.polygon.technology/docs/edge/get-started/set-up-ibft-locally).
+Built based on the official Polygon [documentation](https://docs.polygon.technology/docs/edge/get-started/set-up-ibft-locally).
 
 In order to run a local Docker container with a Polygon Edge Subnet follow the steps bellow:
 
